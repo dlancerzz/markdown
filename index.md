@@ -1,8 +1,6 @@
 # Home
 
-This page is written in *markdown* and rendered as **html** using the `@now/md` builder.
-
-The builder runs once so this static deployment will load instantly each page load!
+mkdown html test page.
 
 Visit the [about](./about) page or keep reading.
 
